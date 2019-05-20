@@ -1,3 +1,4 @@
+#![rustfmt::skip]
 #![feature(stmt_expr_attributes)]
 
 fn main() {
