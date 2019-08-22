@@ -1,5 +1,6 @@
 # Clippy
 
+[![DepShield Badge](https://cpeters2.dev.depshield.sonatype.org/badges/collinpeters/rust-clippy/depshield.svg)](https://sonatype.github.io/depshield-github-pages)
 [![Build Status](https://travis-ci.com/rust-lang/rust-clippy.svg?branch=master)](https://travis-ci.com/rust-lang/rust-clippy)
 [![Windows Build status](https://ci.appveyor.com/api/projects/status/id677xpw1dguo7iw?svg=true)](https://ci.appveyor.com/project/rust-lang-libs/rust-clippy)
 [![Current Version](https://meritbadge.herokuapp.com/clippy)](https://crates.io/crates/clippy)

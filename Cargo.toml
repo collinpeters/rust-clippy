@@ -2,7 +2,7 @@
 name = "clippy"
 version = "0.0.212"
 authors = [
-	"Manish Goregaokar <manishsmail@gmail.com>",
+	"Manish Goregaokar <manishsmail@gmail.co>",
 	"Andre Bogus <bogusandre@gmail.com>",
 	"Georg Brandl <georg@python.org>",
 	"Martin  Carton <cartonmartin@gmail.com>",
